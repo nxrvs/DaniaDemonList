@@ -1,0 +1,17 @@
+{
+    "id": 142241189,
+    "name": "Wojtek Poziom 1",
+    "author": "nxrvs",
+    "creators": [],
+    "verifier": "WojtisPl",
+    "verification": "https://youtu.be/W02G1ctKZLg?si=vzKFx_tw16mvG_6J",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "nxrvs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
