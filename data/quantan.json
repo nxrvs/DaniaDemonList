@@ -1,16 +1,17 @@
 {
-    "id": 3,
-    "name": "Deadlocked",
-    "author": "RobTopGames",
+    "id": 142175184,
+    "name": "Quantan Processing",
+    "author": "nxrvs",
     "creators": [],
     "verifier": "nxrvs",
-    "verification": "https://youtu.be/A9kQ6cvvPtQ?si=M4r4LesoGFBNaUn3",
+    "verification": "https://youtu.be/dRvTTQYuQQ4",
     "percentToQualify": 10,
-    "password": "Not Copyable",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Domino",
-            "percent": 100
+            "user": "top1bukowinka",
+            "percent": 20
+            "hz": 180
         }
     ]
 }
