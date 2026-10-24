@@ -12,6 +12,11 @@
             "user": "top1bukowinka",
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "woj24",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
