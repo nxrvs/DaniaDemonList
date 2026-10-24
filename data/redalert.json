@@ -8,6 +8,10 @@
     "percentToQualify": 10,
     "password": "Not Copyable",
     "records": [
-        
+        {
+            "user": "top1bukowinka",
+            "percent": 44,
+            "hz": 180
+        }
     ]
 }
