@@ -8,6 +8,10 @@
     "percentToQualify": 10,
     "password": "Not Copyable",
     "records": [
-        
+        {
+            "user": "dimakuv",
+            "percent": 11,
+            "hz": 60
+        }
     ]
 }
